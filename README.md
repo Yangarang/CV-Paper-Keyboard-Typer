@@ -25,3 +25,9 @@ pip install matplotlib
 6)	If you’d like to quit, please click the “quit” key on the printed keyboard or hold “q” on your real keyboard.
 
 7)	If you’d like to reset the keyboard, either click the get keyboard key or hold “c” on your real keyboard.
+
+## Images:
+![Image1](supplemental/Figure_1.png) 
+![Image2](supplemental/Figure_2.png) 
+![Image3](supplemental/Figure_3.png) 
+
