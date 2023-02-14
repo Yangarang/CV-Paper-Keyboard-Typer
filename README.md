@@ -30,4 +30,5 @@ pip install matplotlib
 ![Image1](supplemental/Figure_1.png) 
 ![Image2](supplemental/Figure_2.png) 
 ![Image3](supplemental/Figure_3.png) 
+![Hands](hands.PNG) 
 
